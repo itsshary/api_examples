@@ -1,6 +1,5 @@
 # api_project
-
-A new Flutter project.
+I am using a Json file fro projct assets and then using two apis one is used to show show coins data and second api is used to show rando vide ad daily task
 
 ## Getting Started
 
