@@ -1,0 +1,28 @@
+{
+    "name":"ali",
+    "address":"Gujrat",
+"Location":"Germany",
+ "playerid":["schooliid","collageid","universtyid"],
+ "attributes":{
+   "height":5.5,
+    "best":90,
+    "fiftyies":30
+ },
+ "images":[
+  {
+    "id":1,
+    "imagename":"First"
+
+  },
+  {
+    "id":2,
+    "imagename":"Second"
+    
+  },
+  {
+    "id":3,
+    "imagename":"Third"
+    
+  }
+ ]
+}
